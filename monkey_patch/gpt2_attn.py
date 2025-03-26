@@ -4,7 +4,7 @@ import torch
 from torch import nn
 
 
-def GPT2AttentionCustom_forward(
+def gpt2_attention_custom_forward(
     self,
     hidden_states: Optional[Tuple[torch.FloatTensor]],
     layer_past: Optional[Tuple[torch.Tensor]] = None,
@@ -203,7 +203,7 @@ def GPT2AttentionCustom_forward(
     return outputs  # a, present, (attentions)
 
 
-def GPT2AttentionKVBiasCustom_forward(
+def gpt2_attention_kvbias_custom_forward(
     self,
     hidden_states: Optional[Tuple[torch.FloatTensor]],
     layer_past: Optional[Tuple[torch.Tensor]] = None,

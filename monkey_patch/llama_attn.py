@@ -7,7 +7,7 @@ from torch import nn
 from transformers.models.llama.modeling_llama import apply_rotary_pos_emb, repeat_kv
 
 
-def LlamaAttentionCustom_forward(
+def llama_attention_custom_forward(
     self,
     hidden_states: torch.Tensor,
     attention_mask: Optional[torch.Tensor] = None,
@@ -105,7 +105,7 @@ def LlamaAttentionCustom_forward(
     return attn_output, attn_weights, past_key_value
 
 
-def LlamaAttentionKVBiasCustom_forward(
+def llama_attention_kvbias_custom_forward(
     self,
     hidden_states: torch.Tensor,
     attention_mask: Optional[torch.Tensor] = None,

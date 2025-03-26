@@ -1,23 +1,23 @@
 from monkey_patch.gpt2_attn import (
-    GPT2AttentionCustom_forward,
-    GPT2AttentionKVBiasCustom_forward,
+    gpt2_attention_custom_forward,
+    gpt2_attention_kvbias_custom_forward,
 )
 from monkey_patch.llama_attn import (
-    LlamaAttentionCustom_forward,
-    LlamaAttentionKVBiasCustom_forward,
+    llama_attention_custom_forward,
+    llama_attention_kvbias_custom_forward,
 )
 
 
 def get_custom_attn_func(model_name: str):
     if "gpt2" in model_name.lower():
         if "kvbias" in model_name.lower() or "kv_bias" in model_name.lower():
-            return GPT2AttentionKVBiasCustom_forward
+            return gpt2_attention_kvbias_custom_forward
         else:
-            return GPT2AttentionCustom_forward
+            return gpt2_attention_custom_forward
     elif "llama" in model_name.lower():
         if "kvbias" in model_name.lower() or "kv_bias" in model_name.lower():
-            return LlamaAttentionKVBiasCustom_forward
+            return llama_attention_kvbias_custom_forward
         else:
-            return LlamaAttentionCustom_forward
+            return llama_attention_custom_forward
     else:
         raise NotImplementedError(f"Model {model_name} not supported.")
