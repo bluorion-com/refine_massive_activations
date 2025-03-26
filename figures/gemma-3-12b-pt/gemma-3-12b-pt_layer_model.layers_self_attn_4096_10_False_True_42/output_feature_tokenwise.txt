@@ -1,0 +1,125 @@
+Layer-0 | Max Activation: 1686.0411376953125
+Token Positions with Massive Activations: [1, 3, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-1 | Max Activation: 1685.2755126953125
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-2 | Max Activation: 1915.8385009765625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-3 | Max Activation: 1183.580322265625
+Token Positions with Massive Activations: [0, 1, 3, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-4 | Max Activation: 1390.446044921875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-5 | Max Activation: 2140.7744140625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-6 | Max Activation: 2195.936767578125
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-7 | Max Activation: 3268.388671875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-8 | Max Activation: 4789.3515625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-9 | Max Activation: 4157.00830078125
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-10 | Max Activation: 6596.06591796875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-11 | Max Activation: 7527.3974609375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-12 | Max Activation: 7905.17333984375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-13 | Max Activation: 13533.966796875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-14 | Max Activation: 15850.666015625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-15 | Max Activation: 18835.779296875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-16 | Max Activation: 24644.40234375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-17 | Max Activation: 27278.68359375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-18 | Max Activation: 30597.70703125
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-19 | Max Activation: 28684.65234375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-20 | Max Activation: 39854.421875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-21 | Max Activation: 51486.81640625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-22 | Max Activation: 70060.59375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-23 | Max Activation: 62871.12890625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-24 | Max Activation: 62065.4765625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-25 | Max Activation: 51781.19921875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7]
+Massive Activation Positions in Embedding: [2339]
+Layer-26 | Max Activation: 47360.5390625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6]
+Massive Activation Positions in Embedding: [2339]
+Layer-27 | Max Activation: 52395.0078125
+Token Positions with Massive Activations: [0, 1, 4]
+Massive Activation Positions in Embedding: [2339]
+Layer-28 | Max Activation: 60494.2890625
+Token Positions with Massive Activations: [0, 1]
+Massive Activation Positions in Embedding: [2339]
+Layer-29 | Max Activation: 57972.3046875
+No massive activations found in this layer.
+Layer-30 | Max Activation: 52905.51171875
+No massive activations found in this layer.
+Layer-31 | Max Activation: 56113.9453125
+No massive activations found in this layer.
+Layer-32 | Max Activation: 52949.109375
+No massive activations found in this layer.
+Layer-33 | Max Activation: 57957.17578125
+No massive activations found in this layer.
+Layer-34 | Max Activation: 66309.7734375
+No massive activations found in this layer.
+Layer-35 | Max Activation: 67897.8984375
+No massive activations found in this layer.
+Layer-36 | Max Activation: 70646.78125
+No massive activations found in this layer.
+Layer-37 | Max Activation: 73018.125
+No massive activations found in this layer.
+Layer-38 | Max Activation: 77845.4609375
+No massive activations found in this layer.
+Layer-39 | Max Activation: 83530.171875
+No massive activations found in this layer.
+Layer-40 | Max Activation: 97847.9453125
+No massive activations found in this layer.
+Layer-41 | Max Activation: 101329.6015625
+No massive activations found in this layer.
+Layer-42 | Max Activation: 107078.796875
+No massive activations found in this layer.
+Layer-43 | Max Activation: 117394.9765625
+No massive activations found in this layer.
+Layer-44 | Max Activation: 129429.1328125
+No massive activations found in this layer.
+Layer-45 | Max Activation: 145624.671875
+No massive activations found in this layer.
+Layer-46 | Max Activation: 170826.5625
+No massive activations found in this layer.
+Layer-47 | Max Activation: 163454.75
+No massive activations found in this layer.

@@ -1,0 +1,10 @@
+Model: gemma-3-12b-pt
+Model Path: /mnt/nfs/home/gmi/hf_models/google/gemma-3-12b-pt
+Module Name: layer
+Layer Path: model.layers
+Attention Path: self_attn
+Context Length: 4096
+Number of Samples: 10
+Add BOS Token: True
+Show Logits: True
+Seed: 42
