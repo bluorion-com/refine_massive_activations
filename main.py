@@ -22,9 +22,9 @@ if __name__ == "__main__":
     parser.add_argument("--module_name", type=str, default="layer", help="Name of the module in the layer")
     parser.add_argument("--layer_path", type=str, default="model.layers", help="Path to the decoder layers in the model. GPT-2 uses `transformer.h`.")
     parser.add_argument("--attn_path", type=str, default="self_attn", help="Path to the attention layers in the model. GPT-2 uses `attn`.")
-    parser.add_argument("--show_logits", type=bool, default=True, help="Whether to show logits in the self-attention plot")
+    parser.add_argument("--show_logits", type=lambda x: x.lower().startswith("t"), default=True, help="Whether to show logits in the self-attention plot")
     parser.add_argument("--dtype", type=str, default="torch.bfloat16", help="Data type to use")
-    parser.add_argument("--add_bos_token", type=bool, default=True, help="Whether to add a BOS token")
+    parser.add_argument("--add_bos_token", type=lambda x: x.lower().startswith("t"), default=True, help="Whether to add a BOS token")
     parser.add_argument("--context_length", type=int, default=4096, help="Context length")
     parser.add_argument("--sentence", type=str, default="Summer is warm. Winter is cold.", help="Sentence to use for the visualization.")
     parser.add_argument("--save_dir", type=str, default="./massiveactivation_outputs", help="Directory to save outputs")
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     torch.random.manual_seed(seed)
 
     # Load Model & Tokenizer
-    model, tokenizer = load_model_and_tokenizer(model_name, 
+    model, tokenizer = load_model_and_tokenizer(pretrained, 
                                     add_bos_token=add_bos_token,
                                     dtype=dtype,
                                     )
