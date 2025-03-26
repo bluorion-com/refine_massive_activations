@@ -1,0 +1,10 @@
+Model: gpt2
+Model Path: /mnt/nfs/home/gmi/hf_models/openai-community/gpt2
+Module Name: layer
+Layer Path: transformer.h
+Attention Path: attn
+Context Length: 1024
+Number of Samples: 10
+Add BOS Token: False
+Show Logits: True
+Seed: 42

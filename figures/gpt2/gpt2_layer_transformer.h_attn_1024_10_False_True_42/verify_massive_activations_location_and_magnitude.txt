@@ -1,0 +1,3015 @@
+Datum 0
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'W'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 1
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Wildlife'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 2
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'tailed'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 3
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2496.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2672.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2816.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2912.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hop'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 4
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2608.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2752.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '�'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+**************************************************
+
+Datum 5
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' fun'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 6
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2496.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2688.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3040.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3056.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hope'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3072.0}}
+**************************************************
+**************************************************
+
+Datum 7
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' it'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 8
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' I'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 9
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2672.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2816.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2912.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' month'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3040.0}}
+**************************************************
+**************************************************
+
+Datum 10
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' 6'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 11
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' being'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 12
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' by'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 13
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2672.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2816.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2912.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' anticipated'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3040.0}}
+**************************************************
+**************************************************
+
+Datum 14
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' is'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 15
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '-'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 16
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' a'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 17
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' use'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 18
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' J'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 19
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: "('"}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 20
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2496.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2688.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3040.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3056.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'ée'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3072.0}}
+**************************************************
+**************************************************
+
+Datum 21
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Mus'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+**************************************************
+
+Datum 22
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 23
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' are'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 24
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' for'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 25
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'changing'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 26
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '.'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 27
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Collections'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 28
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2624.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2768.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2864.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2912.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' pretty'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+**************************************************
+
+Datum 29
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'in'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 30
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' at'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 31
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' Lincoln'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+**************************************************
+
+Datum 32
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' he'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 33
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+Layer 10
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 34
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'и'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+**************************************************
+
+Datum 35
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ';'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 36
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 37
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2608.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2752.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' DET'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+**************************************************
+
+Datum 38
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2624.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2752.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+**************************************************
+
+Datum 39
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2624.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2752.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+**************************************************
+
+Datum 40
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2624.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2752.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+**************************************************
+
+Datum 41
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' h'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 42
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'w'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 43
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 44
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '('}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+**************************************************
+
+Datum 45
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' re'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+**************************************************
+
+Datum 46
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2624.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2752.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2848.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ' '}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2944.0}}
+**************************************************
+**************************************************
+
+Datum 47
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: ','}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+Datum 48
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2480.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2640.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2784.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2880.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2928.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2976.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: 'hist'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+**************************************************
+
+Datum 49
+Layers with Massive Activations: [2, 3, 4, 5, 6, 7, 8, 9]
+Layer 2
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2464.0}}
+**************************************************
+Layer 3
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2656.0}}
+**************************************************
+Layer 4
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2800.0}}
+**************************************************
+Layer 5
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2896.0}}
+**************************************************
+Layer 6
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2960.0}}
+**************************************************
+Layer 7
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 2992.0}}
+**************************************************
+Layer 8
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3008.0}}
+**************************************************
+Layer 9
+Token Positions with Massive Activations: [0]
+Associated Tokens with Massive Activations: {0: '\n'}
+Embedding Position with Massive Activations:
+----- Position: [447]
+----- Magnitude: {0: {447: 3024.0}}
+**************************************************
+**************************************************
+
+==================================================
+Summary
+First Layer with Massive Activations: 2
+Embedding Position with Massive Activations in First Layer: [447]
+Massive Activation Magnitude in First Layer:
+-- Token Position 0
+---- Position 447 | Avg: 2478.4, Std: 7.332121111929344
+Unique Tokens (with the Relative Position) with Massive Activations in All Layers: {0: {'.', ' he', ' re', 'W', ' for', ' pretty', ' hope', ' is', '-', 'in', ' DET', 'tailed', "('", 'и', ' fun', ' month', 'changing', ' h', ' by', ' Collections', ' at', ' Lincoln', ' ', 'ée', ' use', ' J', ' hop', ' are', ';', ' hist', '(', '\n', ' it', ',', ' 6', ' being', ' Mus', 'hist', 'w', '�', ' anticipated', ' a', ' Wildlife', ' I'}}

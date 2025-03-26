@@ -1,0 +1,11 @@
+Model: gpt2
+Location & Value of Massive Activations
+==================================================
+Layer-2: 2480.0
+Layer-3: 2672.0
+Layer-4: 2816.0
+Layer-5: 2912.0
+Layer-6: 2976.0
+Layer-7: 3008.0
+Layer-8: 3024.0
+Layer-9: 3040.0
