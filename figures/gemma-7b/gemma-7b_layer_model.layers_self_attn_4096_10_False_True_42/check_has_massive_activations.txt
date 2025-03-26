@@ -1,0 +1,3 @@
+Model: gemma-7b
+Location & Value of Massive Activations
+==================================================

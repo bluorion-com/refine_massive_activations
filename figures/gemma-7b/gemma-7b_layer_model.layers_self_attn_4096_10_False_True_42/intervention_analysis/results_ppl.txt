@@ -1,0 +1,11 @@
+Perplexity Results
+original
+wikitext: 310518176.0
+c4: 96105832.0
+pg19: 60033760.0
+
+set_to_zero
+wikitext: 310518176.0
+c4: 96105832.0
+pg19: 60033760.0
+
