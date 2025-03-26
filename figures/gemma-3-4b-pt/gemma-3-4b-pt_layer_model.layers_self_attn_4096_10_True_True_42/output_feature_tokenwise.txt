@@ -1,0 +1,202 @@
+Layer-0 | Max Activation: 13317.8095703125
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-1 | Max Activation: 14803.98046875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-2 | Max Activation: 20249.802734375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-3 | Max Activation: 25302.92578125
+Token Positions with Massive Activations: [0, 1, 2, 3, 5, 6, 7]
+Massive Activation Positions in Embedding: [443]
+Layer-4 | Max Activation: 51458.375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-5 | Max Activation: 73677.015625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-6 | Max Activation: 87798.34375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-7 | Max Activation: 106123.6640625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-8 | Max Activation: 117602.515625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-9 | Max Activation: 140097.890625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-10 | Max Activation: 152352.3125
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-11 | Max Activation: 165082.015625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-12 | Max Activation: 184186.734375
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-13 | Max Activation: 205754.546875
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-14 | Max Activation: 232296.671875
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-15 | Max Activation: 241120.75
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-16 | Max Activation: 242923.4375
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-17 | Max Activation: 258869.53125
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-18 | Max Activation: 262630.34375
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-19 | Max Activation: 264952.5625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-20 | Max Activation: 265635.6875
+Token Positions with Massive Activations: [0, 2, 4, 5, 6, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-21 | Max Activation: 267854.46875
+Token Positions with Massive Activations: [0, 2]
+Massive Activation Positions in Embedding: [443]
+Layer-22 | Max Activation: 271542.125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-23 | Max Activation: 281066.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-24 | Max Activation: 282017.75
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-25 | Max Activation: 285766.78125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-26 | Max Activation: 287291.1875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-27 | Max Activation: 289457.1875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-28 | Max Activation: 292212.84375
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-29 | Max Activation: 295546.03125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-30 | Max Activation: 292865.53125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-31 | Max Activation: 236233.171875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-32 | Max Activation: 207317.671875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-33 | Max Activation: 148596.203125
+No massive activations found in this layer.
+Layer-0 | Max Activation: 13317.8095703125
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-1 | Max Activation: 14803.98046875
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-2 | Max Activation: 20249.802734375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-3 | Max Activation: 25302.92578125
+Token Positions with Massive Activations: [0, 1, 2, 3, 5, 6, 7]
+Massive Activation Positions in Embedding: [443]
+Layer-4 | Max Activation: 51458.375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-5 | Max Activation: 73677.015625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-6 | Max Activation: 87798.34375
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-7 | Max Activation: 106123.6640625
+Token Positions with Massive Activations: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-8 | Max Activation: 117602.515625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-9 | Max Activation: 140097.890625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-10 | Max Activation: 152352.3125
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-11 | Max Activation: 165082.015625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-12 | Max Activation: 184186.734375
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-13 | Max Activation: 205754.546875
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-14 | Max Activation: 232296.671875
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-15 | Max Activation: 241120.75
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-16 | Max Activation: 242923.4375
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-17 | Max Activation: 258869.53125
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-18 | Max Activation: 262630.34375
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-19 | Max Activation: 264952.5625
+Token Positions with Massive Activations: [0, 2, 3, 4, 5, 6, 7, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-20 | Max Activation: 265635.6875
+Token Positions with Massive Activations: [0, 2, 4, 5, 6, 8]
+Massive Activation Positions in Embedding: [443]
+Layer-21 | Max Activation: 267854.46875
+Token Positions with Massive Activations: [0, 2]
+Massive Activation Positions in Embedding: [443]
+Layer-22 | Max Activation: 271542.125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-23 | Max Activation: 281066.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-24 | Max Activation: 282017.75
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-25 | Max Activation: 285766.78125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-26 | Max Activation: 287291.1875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-27 | Max Activation: 289457.1875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-28 | Max Activation: 292212.84375
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-29 | Max Activation: 295546.03125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-30 | Max Activation: 292865.53125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-31 | Max Activation: 236233.171875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-32 | Max Activation: 207317.671875
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [443]
+Layer-33 | Max Activation: 148596.203125
+No massive activations found in this layer.
