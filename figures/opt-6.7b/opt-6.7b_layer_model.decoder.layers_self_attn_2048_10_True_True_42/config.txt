@@ -1,0 +1,10 @@
+Model: opt-6.7b
+Model Path: /mnt/nfs/home/gmi/hf_models/facebook/opt-6.7b
+Module Name: layer
+Layer Path: model.decoder.layers
+Attention Path: self_attn
+Context Length: 2048
+Number of Samples: 10
+Add BOS Token: True
+Show Logits: True
+Seed: 42

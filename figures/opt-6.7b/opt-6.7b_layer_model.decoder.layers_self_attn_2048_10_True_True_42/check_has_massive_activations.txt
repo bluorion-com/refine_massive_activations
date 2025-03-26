@@ -1,0 +1,18 @@
+Model: opt-6.7b
+Location & Value of Massive Activations
+==================================================
+Layer-0: 154.0
+Layer-1: 216.0
+Layer-2: 256.0
+Layer-3: 270.0
+Layer-4: 276.0
+Layer-5: 278.0
+Layer-6: 280.0
+Layer-7: 282.0
+Layer-8: 284.0
+Layer-9: 286.0
+Layer-10: 288.0
+Layer-11: 292.0
+Layer-12: 296.0
+Layer-13: 300.0
+Layer-14: 306.0
