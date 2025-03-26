@@ -1,0 +1,4 @@
+Resetting massive activations to 0.0 in layer 0 token_dim [0] loc 1038. Original Value: tensor([[2.3090]], dtype=torch.float32)
+Resetting massive activations to 0.0 in layer 0 token_dim [0] loc 1125. Original Value: tensor([[-634.4478]], dtype=torch.float32)
+Resetting massive activations to 0.0 in layer 0 token_dim [0] loc 1038. Original Value: tensor([[4.2692]], dtype=torch.float32)
+Resetting massive activations to 0.0 in layer 0 token_dim [0] loc 1125. Original Value: tensor([[-762.1059]], dtype=torch.float32)

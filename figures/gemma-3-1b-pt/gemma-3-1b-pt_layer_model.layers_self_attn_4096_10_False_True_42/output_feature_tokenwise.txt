@@ -1,0 +1,55 @@
+Layer-0 | Max Activation: 503.0263977050781
+No massive activations found in this layer.
+Layer-1 | Max Activation: 888.4144287109375
+Token Positions with Massive Activations: [2, 4, 6]
+Massive Activation Positions in Embedding: [1125]
+Layer-2 | Max Activation: 969.5450439453125
+Token Positions with Massive Activations: [2, 6]
+Massive Activation Positions in Embedding: [1125]
+Layer-3 | Max Activation: 908.5213623046875
+No massive activations found in this layer.
+Layer-4 | Max Activation: 1466.1646728515625
+No massive activations found in this layer.
+Layer-5 | Max Activation: 2784.3486328125
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [1038]
+Layer-6 | Max Activation: 2805.060791015625
+No massive activations found in this layer.
+Layer-7 | Max Activation: 3527.9658203125
+No massive activations found in this layer.
+Layer-8 | Max Activation: 4804.4453125
+No massive activations found in this layer.
+Layer-9 | Max Activation: 7310.73095703125
+No massive activations found in this layer.
+Layer-10 | Max Activation: 8762.5546875
+No massive activations found in this layer.
+Layer-11 | Max Activation: 10757.12890625
+No massive activations found in this layer.
+Layer-12 | Max Activation: 9821.439453125
+No massive activations found in this layer.
+Layer-13 | Max Activation: 10065.474609375
+No massive activations found in this layer.
+Layer-14 | Max Activation: 10854.716796875
+No massive activations found in this layer.
+Layer-15 | Max Activation: 13885.4462890625
+No massive activations found in this layer.
+Layer-16 | Max Activation: 16870.447265625
+No massive activations found in this layer.
+Layer-17 | Max Activation: 16911.90234375
+No massive activations found in this layer.
+Layer-18 | Max Activation: 18420.724609375
+No massive activations found in this layer.
+Layer-19 | Max Activation: 21253.4296875
+No massive activations found in this layer.
+Layer-20 | Max Activation: 23253.31640625
+No massive activations found in this layer.
+Layer-21 | Max Activation: 26217.185546875
+No massive activations found in this layer.
+Layer-22 | Max Activation: 29553.033203125
+No massive activations found in this layer.
+Layer-23 | Max Activation: 31166.3828125
+No massive activations found in this layer.
+Layer-24 | Max Activation: 34975.453125
+No massive activations found in this layer.
+Layer-25 | Max Activation: 34743.09375
+No massive activations found in this layer.

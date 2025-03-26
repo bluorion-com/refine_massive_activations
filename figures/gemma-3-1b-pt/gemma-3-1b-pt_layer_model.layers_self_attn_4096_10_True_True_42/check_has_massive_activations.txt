@@ -1,0 +1,23 @@
+Model: gemma-3-1b-pt
+Location & Value of Massive Activations
+==================================================
+Layer-0: 2592.0
+Layer-1: 3024.0
+Layer-2: 5248.0
+Layer-3: 11328.0
+Layer-4: 18816.0
+Layer-5: 22784.0
+Layer-6: 29952.0
+Layer-7: 40960.0
+Layer-8: 44288.0
+Layer-9: 54528.0
+Layer-10: 63232.0
+Layer-11: 71680.0
+Layer-12: 75264.0
+Layer-13: 77312.0
+Layer-14: 81408.0
+Layer-15: 83456.0
+Layer-16: 86528.0
+Layer-17: 92672.0
+Layer-18: 95232.0
+Layer-19: 93696.0
