@@ -1,0 +1,8 @@
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 293. Original Value: tensor([[-256.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 743. Original Value: tensor([[-704.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 293. Original Value: tensor([[-141.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 743. Original Value: tensor([[-432.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 293. Original Value: tensor([[-120.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 743. Original Value: tensor([[-380.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 293. Original Value: tensor([[-114.]])
+Resetting massive activations to 0.0 in layer 2 token_dim [1] loc 743. Original Value: tensor([[-318.]])

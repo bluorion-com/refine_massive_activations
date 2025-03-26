@@ -1,0 +1,27 @@
+Model: phi-2
+Location & Value of Massive Activations
+==================================================
+Layer-1: 264.0
+Layer-2: 688.0
+Layer-3: 896.0
+Layer-4: 1008.0
+Layer-5: 1080.0
+Layer-6: 1112.0
+Layer-7: 1144.0
+Layer-8: 1152.0
+Layer-9: 1160.0
+Layer-10: 1160.0
+Layer-11: 1160.0
+Layer-12: 1160.0
+Layer-13: 1160.0
+Layer-14: 1160.0
+Layer-15: 1160.0
+Layer-16: 1160.0
+Layer-17: 1160.0
+Layer-18: 1160.0
+Layer-19: 1160.0
+Layer-20: 1160.0
+Layer-21: 1160.0
+Layer-22: 1160.0
+Layer-23: 1160.0
+Layer-24: 1160.0

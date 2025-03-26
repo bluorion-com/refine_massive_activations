@@ -1,0 +1,10 @@
+Model: phi-2
+Model Path: /mnt/nfs/home/gmi/hf_models/microsoft/phi-2
+Module Name: layer
+Layer Path: model.layers
+Attention Path: self_attn
+Context Length: 4096
+Number of Samples: 10
+Add BOS Token: False
+Show Logits: True
+Seed: 42
