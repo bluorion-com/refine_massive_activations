@@ -10,7 +10,7 @@ BluOrion
 
 [Paper](#)
 
-![poster](figures/main_table.png)
+![poster](assets/main_table.png)
 
 This paper helps address some of the gaps from previous analysis on [Massive Activation](https://arxiv.org/abs/2402.17762) by conducting an analysis across a broad range of LLMs, including both GLU-based and non-GLU-based architectures. Our findings challenge several prior assumptions, most importantly: 
 (1) not all massive activations are detrimental, i.e. suppressing them does not lead to an explosion of perplexity or a collapse in downstream task performance; 
@@ -65,6 +65,10 @@ The following are the valid options for the `exp_type` args:
 * `top_activation_magnitude`: to visualize the top activation magnitude across layers.
 * `self_attention`: to visualize the self attention concentration phenomenon.
 
+
+## Figures
+
+Relevant figures for other massive activation characteristics that we observed in all pretrained LLMs studied in the paper are presented in the [figures](figures) folder.
 
 ## Citation
 ```
