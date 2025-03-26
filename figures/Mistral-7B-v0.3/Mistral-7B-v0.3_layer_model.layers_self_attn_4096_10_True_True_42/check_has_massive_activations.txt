@@ -1,0 +1,32 @@
+Model: Mistral-7B-v0.3
+Location & Value of Massive Activations
+==================================================
+Layer-1: 274.0
+Layer-2: 274.0
+Layer-3: 274.0
+Layer-4: 274.0
+Layer-5: 274.0
+Layer-6: 274.0
+Layer-7: 274.0
+Layer-8: 274.0
+Layer-9: 278.0
+Layer-10: 278.0
+Layer-11: 278.0
+Layer-12: 278.0
+Layer-13: 278.0
+Layer-14: 290.0
+Layer-15: 290.0
+Layer-16: 290.0
+Layer-17: 290.0
+Layer-18: 290.0
+Layer-19: 294.0
+Layer-20: 294.0
+Layer-21: 294.0
+Layer-22: 294.0
+Layer-23: 294.0
+Layer-24: 294.0
+Layer-25: 294.0
+Layer-26: 294.0
+Layer-27: 292.0
+Layer-28: 292.0
+Layer-29: 288.0

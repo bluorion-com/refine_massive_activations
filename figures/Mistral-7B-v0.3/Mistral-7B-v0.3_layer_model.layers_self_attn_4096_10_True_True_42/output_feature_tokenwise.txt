@@ -1,0 +1,465 @@
+Layer-0 | Max Activation: 0.9375
+No massive activations found in this layer.
+Layer-1 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-2 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-3 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-4 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-5 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-6 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-7 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-8 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-9 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-10 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-11 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-12 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-13 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-14 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-15 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-16 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-17 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-18 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-19 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-20 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-21 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-22 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-23 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-24 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-25 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-26 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-27 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-28 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-29 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-30 | Max Activation: 214.0
+No massive activations found in this layer.
+Layer-31 | Max Activation: 158.0
+No massive activations found in this layer.
+Layer-0 | Max Activation: 0.9375
+No massive activations found in this layer.
+Layer-1 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-2 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-3 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-4 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-5 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-6 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-7 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-8 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-9 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-10 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-11 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-12 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-13 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-14 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-15 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-16 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-17 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-18 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-19 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-20 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-21 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-22 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-23 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-24 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-25 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-26 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-27 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-28 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-29 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-30 | Max Activation: 214.0
+No massive activations found in this layer.
+Layer-31 | Max Activation: 158.0
+No massive activations found in this layer.
+Layer-0 | Max Activation: 0.9375
+No massive activations found in this layer.
+Layer-1 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-2 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-3 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-4 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-5 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-6 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-7 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-8 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-9 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-10 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-11 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-12 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-13 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-14 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-15 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-16 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-17 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-18 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-19 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-20 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-21 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-22 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-23 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-24 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-25 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-26 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-27 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-28 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-29 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-30 | Max Activation: 214.0
+No massive activations found in this layer.
+Layer-31 | Max Activation: 158.0
+No massive activations found in this layer.
+Layer-0 | Max Activation: 0.9375
+No massive activations found in this layer.
+Layer-1 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-2 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-3 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-4 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-5 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-6 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-7 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-8 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-9 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-10 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-11 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-12 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-13 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-14 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-15 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-16 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-17 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-18 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-19 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-20 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-21 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-22 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-23 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-24 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-25 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-26 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-27 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-28 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-29 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-30 | Max Activation: 214.0
+No massive activations found in this layer.
+Layer-31 | Max Activation: 158.0
+No massive activations found in this layer.
+Layer-0 | Max Activation: 0.9375
+No massive activations found in this layer.
+Layer-1 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-2 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-3 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-4 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-5 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-6 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-7 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-8 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-9 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-10 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-11 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-12 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-13 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-14 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-15 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-16 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-17 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-18 | Max Activation: 245.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-19 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-20 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-21 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-22 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-23 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-24 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-25 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-26 | Max Activation: 248.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-27 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-28 | Max Activation: 246.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-29 | Max Activation: 247.0
+Token Positions with Massive Activations: [0]
+Massive Activation Positions in Embedding: [2070]
+Layer-30 | Max Activation: 214.0
+No massive activations found in this layer.
+Layer-31 | Max Activation: 158.0
+No massive activations found in this layer.

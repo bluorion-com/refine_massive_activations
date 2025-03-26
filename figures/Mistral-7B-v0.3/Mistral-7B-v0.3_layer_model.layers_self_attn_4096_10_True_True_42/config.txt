@@ -1,0 +1,10 @@
+Model: Mistral-7B-v0.3
+Model Path: /mnt/nfs/home/gmi/hf_models/mistralai/Mistral-7B-v0.3
+Module Name: layer
+Layer Path: model.layers
+Attention Path: self_attn
+Context Length: 4096
+Number of Samples: 10
+Add BOS Token: True
+Show Logits: True
+Seed: 42
