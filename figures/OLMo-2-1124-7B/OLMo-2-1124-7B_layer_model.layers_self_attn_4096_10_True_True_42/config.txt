@@ -1,0 +1,10 @@
+Model: OLMo-2-1124-7B
+Model Path: /mnt/nfs/home/gmi/hf_models/allenai/OLMo-2-1124-7B
+Module Name: layer
+Layer Path: model.layers
+Attention Path: self_attn
+Context Length: 4096
+Number of Samples: 10
+Add BOS Token: True
+Show Logits: True
+Seed: 42

@@ -1,0 +1,6 @@
+==================================================
+Summary
+First Layer with Massive Activations: inf
+Embedding Position with Massive Activations in First Layer: []
+Massive Activation Magnitude in First Layer:
+Unique Tokens (with the Relative Position) with Massive Activations in All Layers: {}
