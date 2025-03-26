@@ -1,0 +1,10 @@
+Model: falcon-7B
+Model Path: /mnt/nfs/home/gmi/hf_models/tiiuae/falcon-7B
+Module Name: layer
+Layer Path: transformer.h
+Attention Path: self_attention
+Context Length: 4096
+Number of Samples: 10
+Add BOS Token: False
+Show Logits: True
+Seed: 42

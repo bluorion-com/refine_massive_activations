@@ -1,0 +1,31 @@
+Model: falcon-7B
+Location & Value of Massive Activations
+==================================================
+Layer-3: 1216.0
+Layer-4: 1848.0
+Layer-5: 1856.0
+Layer-6: 1856.0
+Layer-7: 1864.0
+Layer-8: 1864.0
+Layer-9: 1864.0
+Layer-10: 1864.0
+Layer-11: 1864.0
+Layer-12: 1864.0
+Layer-13: 1864.0
+Layer-14: 1864.0
+Layer-15: 1864.0
+Layer-16: 1864.0
+Layer-17: 1864.0
+Layer-18: 1864.0
+Layer-19: 1864.0
+Layer-20: 1864.0
+Layer-21: 1864.0
+Layer-22: 1864.0
+Layer-23: 1864.0
+Layer-24: 1864.0
+Layer-25: 1864.0
+Layer-26: 1864.0
+Layer-27: 1864.0
+Layer-28: 1856.0
+Layer-29: 1800.0
+Layer-30: 1552.0
