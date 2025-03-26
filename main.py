@@ -91,7 +91,6 @@ if __name__ == "__main__":
         first_layer, embd_location, tokenswithmassiveact_all_unique = (
             verify_massive_activations_location_and_magnitude_and_tokens(
                 save_dir_sub,
-                model_name,
                 model,
                 layer_path,
                 tokenizer,
@@ -109,7 +108,6 @@ if __name__ == "__main__":
         if exp_type == "intervention_analysis":
             ppl_dict = run_intervention_analysis(
                             save_dir_sub,
-                            model_name,
                             model,
                             tokenizer,
                             layer_path,
