@@ -1,0 +1,3 @@
+Model: gemma-2-2b
+Location & Value of Massive Activations
+==================================================

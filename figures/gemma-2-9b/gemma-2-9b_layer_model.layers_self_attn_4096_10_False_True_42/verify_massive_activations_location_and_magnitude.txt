@@ -1,0 +1,19 @@
+Datum 0
+Layers with Massive Activations: [19]
+Layer 19
+Token Positions with Massive Activations: [3628]
+Associated Tokens with Massive Activations: {3628: 'r'}
+Embedding Position with Massive Activations:
+----- Position: [504]
+----- Magnitude: {3628: {504: 1216.0}}
+**************************************************
+**************************************************
+
+==================================================
+Summary
+First Layer with Massive Activations: 19
+Embedding Position with Massive Activations in First Layer: [504]
+Massive Activation Magnitude in First Layer:
+-- Token Position 3628
+---- Position 504 | Avg: 1216.0, Std: 0.0
+Unique Tokens (with the Relative Position) with Massive Activations in All Layers: {3628: {'r'}}

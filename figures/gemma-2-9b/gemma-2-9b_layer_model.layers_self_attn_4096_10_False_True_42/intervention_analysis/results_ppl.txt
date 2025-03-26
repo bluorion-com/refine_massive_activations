@@ -1,0 +1,13 @@
+Perplexity Results
+original
+wikitext: 122.60018920898438
+c4: 235.09744262695312
+pg19: 254.67459106445312
+
+set_to_zero
+wikitext: 122.60018920898438
+c4: 235.09744262695312
+pg19: 254.67459106445312
+
+Missing Embedding Location When Intervening with Mean
+[504]
