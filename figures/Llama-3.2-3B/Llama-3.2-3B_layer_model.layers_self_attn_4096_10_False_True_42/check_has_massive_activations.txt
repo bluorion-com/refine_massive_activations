@@ -1,0 +1,29 @@
+Model: Llama-3.2-3B
+Location & Value of Massive Activations
+==================================================
+Layer-1: 496.0
+Layer-2: 496.0
+Layer-3: 496.0
+Layer-4: 496.0
+Layer-5: 496.0
+Layer-6: 496.0
+Layer-7: 496.0
+Layer-8: 496.0
+Layer-9: 496.0
+Layer-10: 496.0
+Layer-11: 496.0
+Layer-12: 496.0
+Layer-13: 496.0
+Layer-14: 496.0
+Layer-15: 496.0
+Layer-16: 496.0
+Layer-17: 496.0
+Layer-18: 496.0
+Layer-19: 496.0
+Layer-20: 496.0
+Layer-21: 496.0
+Layer-22: 496.0
+Layer-23: 496.0
+Layer-24: 496.0
+Layer-25: 492.0
+Layer-26: 488.0

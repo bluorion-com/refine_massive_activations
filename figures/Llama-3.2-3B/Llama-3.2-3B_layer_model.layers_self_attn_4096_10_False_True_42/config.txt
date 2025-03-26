@@ -1,0 +1,10 @@
+Model: Llama-3.2-3B
+Model Path: /mnt/nfs/home/gmi/hf_models/meta-llama/Llama-3.2-3B
+Module Name: layer
+Layer Path: model.layers
+Attention Path: self_attn
+Context Length: 4096
+Number of Samples: 10
+Add BOS Token: False
+Show Logits: True
+Seed: 42

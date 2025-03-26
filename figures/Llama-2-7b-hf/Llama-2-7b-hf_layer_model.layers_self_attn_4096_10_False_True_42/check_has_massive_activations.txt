@@ -1,0 +1,32 @@
+Model: Llama-2-7b-hf
+Location & Value of Massive Activations
+==================================================
+Layer-1: 2496.0
+Layer-2: 2496.0
+Layer-3: 2496.0
+Layer-4: 2512.0
+Layer-5: 2512.0
+Layer-6: 2512.0
+Layer-7: 2512.0
+Layer-8: 2512.0
+Layer-9: 2512.0
+Layer-10: 2512.0
+Layer-11: 2512.0
+Layer-12: 2512.0
+Layer-13: 2512.0
+Layer-14: 2512.0
+Layer-15: 2512.0
+Layer-16: 2512.0
+Layer-17: 2512.0
+Layer-18: 2512.0
+Layer-19: 2512.0
+Layer-20: 2512.0
+Layer-21: 2512.0
+Layer-22: 2512.0
+Layer-23: 2512.0
+Layer-24: 2512.0
+Layer-25: 2512.0
+Layer-26: 2512.0
+Layer-27: 2512.0
+Layer-28: 2512.0
+Layer-29: 2464.0

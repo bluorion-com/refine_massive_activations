@@ -1,0 +1,16 @@
+Model: Llama-3.2-1B
+Location & Value of Massive Activations
+==================================================
+Layer-1: 217.0
+Layer-2: 217.0
+Layer-3: 217.0
+Layer-4: 217.0
+Layer-5: 217.0
+Layer-6: 217.0
+Layer-7: 217.0
+Layer-8: 217.0
+Layer-9: 217.0
+Layer-10: 217.0
+Layer-11: 217.0
+Layer-12: 217.0
+Layer-13: 217.0
