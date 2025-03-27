@@ -369,11 +369,6 @@ def gpt2_attention_kvbias_custom_forward(
     value = self._split_heads(value, self.num_heads, self.head_dim)
 
     ###########################################################
-    L, S = query.size(-2), key.size(-2)
-    temp_mask = torch.ones(L, S, dtype=torch.bool, device=query.device).tril(diagonal=0)
-    true_values = torch.ones(temp_mask.size(0), 1, dtype=torch.bool, device=query.device)
-    temp_mask = torch.cat((true_values, temp_mask), dim=1)
-
     k_bias = self.k_bias.weight.repeat(bsz, 1, 1, 1)  # (B, num_heads, 1, dim // num_heads)
     v_bias = self.v_bias.weight.repeat(bsz, 1, 1, 1)
 
