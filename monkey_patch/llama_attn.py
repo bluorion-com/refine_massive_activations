@@ -143,11 +143,6 @@ def llama_attention_kvbias_custom_forward(
     query_states, key_states = apply_rotary_pos_emb(query_states, key_states, cos, sin)
 
     ###########################################################
-    L, S = query_states.size(-2), key_states.size(-2)
-    temp_mask = torch.ones(L, S, dtype=torch.bool, device=query_states.device).tril(diagonal=0)
-    true_values = torch.ones(temp_mask.size(0), 1, dtype=torch.bool, device=query_states.device)
-    temp_mask = torch.cat((true_values, temp_mask), dim=1)
-
     k_bias = self.k_bias.weight.repeat(bsz, 1, 1, 1)  # (B, num_heads, 1, dim // num_heads)
     v_bias = self.v_bias.weight.repeat(bsz, 1, 1, 1)
 
@@ -159,18 +154,6 @@ def llama_attention_kvbias_custom_forward(
     )
 
     if attention_mask is not None:
-        # attention_mask = torch.cat(
-        #     (
-        #         torch.ones(
-        #             bsz, 1, 1, 1, dtype=attention_mask.dtype, device=attention_mask.device
-        #         ),
-        #         attention_mask,
-        #     ),
-        #     dim=3,
-        # )
-
-        # TODO(louis): handle attention_mask 4D
-        # https://github.com/huggingface/transformers/blob/66531a1ec3e2aafe7ffb23a9ca715cfb67b9fea0/src/transformers/models/llama/modeling_llama.py#L897
         attention_mask = None
     ###########################################################
 
