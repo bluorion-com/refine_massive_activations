@@ -14,8 +14,8 @@ BluOrion
 
 This paper helps address some of the gaps from previous analysis on [Massive Activation](https://arxiv.org/abs/2402.17762) by conducting an analysis across a broad range of LLMs, including both GLU-based and non-GLU-based architectures. Our findings challenge several prior assumptions, most importantly: 
 (1) not all massive activations are detrimental, i.e. suppressing them does not lead to an explosion of perplexity or a collapse in downstream task performance; 
-(2) proposed mitigation strategies such as attention KV bias are model-specific and ineffective in certain cases. 
-Furthermore, we identify several other mitigation approaches that prove effective beyond GPT-2, addressing limitations of prior work. 
+(2) proposed mitigation strategies such as Attention KV bias are model-specific and ineffective in certain cases. 
+We consequently investigate novel hybrid mitigation strategies; in particular pairing Target Variance Rescaling (TVR) with Attention KV bias or Dynamic Tanh (DyT) successfully balances the mitigation of massive activations with preserved downstream model performance in the scenarios we investigated.
 
 ## Requirements
 
