@@ -8,7 +8,7 @@ Official implementation of our paper:
 
 BluOrion
 
-[Paper](#)
+[Paper](https://arxiv.org/abs/2503.22329)
 
 ![poster](assets/main_table.png)
 
@@ -72,5 +72,13 @@ Relevant figures for other massive activation characteristics that we observed i
 
 ## Citation
 ```
-
+@misc{owen2025refinedanalysismassiveactivations,
+      title={A Refined Analysis of Massive Activations in LLMs}, 
+      author={Louis Owen and Nilabhra Roy Chowdhury and Abhay Kumar and Fabian Güra},
+      year={2025},
+      eprint={2503.22329},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.22329}, 
+}
 ```
