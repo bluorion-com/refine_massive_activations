@@ -10,7 +10,7 @@ BluOrion
 
 [Paper](https://arxiv.org/abs/2503.22329)
 
-![poster](assets/main_table.png)
+<img src="./figures/ma_poster.jpeg" width="100%"/>
 
 This paper helps address some of the gaps from previous analysis on [Massive Activation](https://arxiv.org/abs/2402.17762) by conducting an analysis across a broad range of LLMs, including both GLU-based and non-GLU-based architectures. Our findings challenge several prior assumptions, most importantly: 
 (1) not all massive activations are detrimental, i.e. suppressing them does not lead to an explosion of perplexity or a collapse in downstream task performance; 
